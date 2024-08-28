@@ -1,0 +1,108 @@
+let entrevista_1 = {
+    entrevistador: "Beatriz",
+    entrevitado: "Geovanna",
+    questoes: {
+        p1: "Qual é o seu maior sonho de vida?",
+        r1: "",
+        p2: "Quando você era pequena, qual profissão você queria exercer? Por que?",
+        r2: "",
+        p3: "E hoje em dia, qual profissão você tem em mente? Por que você mudou de ideia?",
+        r3: "",
+        p4: "Por que você se interessou por essa profissão?",
+        r4: "",
+        p5: "Qual outra profissão você exerceria? Por que?",
+        r5: "",
+        p6: "O que você mais aprendeu na escola?",
+        r6: "",
+        p7: "Você pretende se casar no futuro?",
+        r7: "",
+        p8: "Você pretende ter filhos? Quantos?",
+        r8: "",
+        p9: "Qual a sua maior inspiração de vida?",
+        r9: "",
+        p10: "Você se arrepende de alguma coisa do seu ensino médio? Por que?",
+        r10: "",
+
+    }
+}
+let entrevista_2 = {
+    entrevistador: "Thales",
+    entrevitado: "Douglas",
+    questoes: {
+        p1: "Qual é o seu maior sonho de vida?",
+        r1: "",
+        p2: "Quando você era criança, qual profissão você queria exercer? Por que?",
+        r2: "",
+        p3: "E hoje em dia, qual profissão você tem em mente? Por que você mudou de ideia?",
+        r3: "",
+        p4: "Por que você se interessou por essa profissão?",
+        r4: "",
+        p5: "Qual outra profissão você exerceria? Por que?",
+        r5: "",
+        p6: "O que você mais aprendeu na escola?",
+        r6: "",
+        p7: "Você pretende se casar no futuro?",
+        r7: "",
+        p8: "Você pretende ter filhos? Quantos? ",
+        r8: "",
+        p9: "Qual a sua maior inspiração de vida? Por que?",
+        r9: "",
+        p10: "Você se arrepende de alguma coisa do seu ensino médio? Por que?",
+        r10: "",
+
+    }
+}
+let entrevista_3 = {
+    entrevistador: "Geovanna",
+    entrevitado: "Beatriz",
+    questoes: {
+        p1: "Qual é o seu maior sonho de vida?",
+        r1: "",
+        p2: "Quando você era pequena, qual profissão você queria exercer? Por que?",
+        r2: "",
+        p3: "E hoje em dia, qual profissão você tem em mente? Por que você mudou de ideia?",
+        r3: "",
+        p4: "Por que você se interessou por essa profissão?",
+        r4: "",
+        p5: "Qual outra profissão você exerceria? porque ",
+        r5: "",
+        p6: "O que você mais aprendeu na escola?",
+        r6: "",
+        p7: "Você pretende se casar no futuro?",
+        r7: "",
+        p8: "Você pretende ter filhos?",
+        r8: "",
+        p9: "Qual a sua maior inspiração de vida?",
+        r9: "",
+        p10: "Você se arrepende de alguma coisa do seu ensino médio? Por que?",
+        r10: "",
+
+    }
+}
+let entrevista_4 = {
+    entrevistador: "Douglas",
+    entrevitado: "Thales",
+    questoes: {
+        p1: "Qual é o seu maior sonho de vida?",
+        r1: "",
+        p2: "Quando você era pequena, qual profissão você queria exercer? Por que?",
+        r2: "",
+        p3: "E hoje em dia, qual profissão você tem em mente? Por que você mudou de ideia?",
+        r3: "",
+        p4: "Por que você se interessou por essa profissão?",
+        r4: "",
+        p5: "Qual outra profissão você exerceria?",
+        r5: "",
+        p6: "O que você mais aprendeu na escola?",
+        r6: "",
+        p7: "Você pretende se casar no futuro?",
+        r7: "",
+        p8: "Você pretende ter filhos?",
+        r8: "",
+        p9: "Qual a sua maior inspiração de vida?",
+        r9: "",
+        p10: "Você se arrepende de alguma coisa do seu ensino médio? Por que?",
+        r10: "",
+
+    }
+}
